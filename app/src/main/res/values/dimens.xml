@@ -1,0 +1,10 @@
+<resources>
+    //for size or images or font
+    //sp for font size
+    //dp for all images
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="min_height">48dp</dimen>
+    <dimen name="min_width">48dp</dimen>
+    <dimen name="max_font_size">24sp</dimen>
+    <dimen name="min_font_size">14sp</dimen>
+</resources>
